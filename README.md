@@ -30,8 +30,7 @@ O outro teste e acessando o e-mail e encaminhando uma resposta.
 Não foi implementado o anexo no projeto pelo seguinte motivo não sei como mapear o elemento e subir o arquivo para o gmail, o elemento que selecionar o anexo e js ele e dinamico e com isso
 fica dificil de manipular. 
 
-Eu deixei o projeto configurado da forma que eu queria para subir o anexo tem uma pasta images nela contem um arquivo atraves do metado Environment.CurrentDirectory eu realizo o upload da imagem 
-mas como não conseguir manipular o elemento do anexo não e possível realizar 
+Eu deixei o projeto configurado da forma que eu queria para subir o anexo tem uma pasta images nela contem um arquivo atraves do metado Environment.CurrentDirectory eu realizo o upload da imagem  mas como não conseguir manipular o elemento do anexo não e possível realizar 
 
 
 No arquivo csproj o codigo 
@@ -39,7 +38,7 @@ No arquivo csproj o codigo
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     
- faz com que toda a vez que o projeto for executado criar uma pasta no bin chamada de images carrwgando assim a imagem que está na pasta 
+ faz com que toda a vez que o projeto for executado criar uma pasta no bin chamada de images carregando assim a imagem que está na pasta 
  
  
 
