@@ -36,7 +36,7 @@ namespace Gmail.Cammon
         [TearDown]
         public void Finish()
         {
-
+            Browser.Dispose();
         }
 
 
