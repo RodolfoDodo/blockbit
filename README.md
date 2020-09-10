@@ -10,6 +10,7 @@ Acessar a pasta onde foi clonado e execute o comando dotnet test
 O projeto foi desenvolvido no padrão page object utilizando o framework Coypu e Junit
 
 ------ Sobre o Projeto -------
+
 A classe Basetest e a classe responsável por está configurada com o Coypu ela possuir todas as configurações do projeto para realizar o acesso ao navegador e realizar os testes
 
 A classe Models e a classe responsável por amarzenar e manter o padrão de massa de teste Code First
